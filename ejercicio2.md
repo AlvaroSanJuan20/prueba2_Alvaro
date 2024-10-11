@@ -1,11 +1,14 @@
-# UN TITULO PARA PRACTICAR MARKDOWN
-## mostrado para el ejercicio 2
+# Ejercicio 2: Introducción a la implantación de aplicaciones web
+`por Alvaro San Juan - ASIR2 (2024/2025)`
+
+En esta practica aprenderemos las multiples funciones que tiene Markdown y como usarlas cuando sea necesario.
+
+## Varios de los usos de Markdown
 
 Esto es un **parrafo** para comprobar el uso de **cursivo**, este es la comprobación de *cursiva* y en codigo.
 
-```
 Esto es codigo:
-
+```
 CREATE DATABASE test;
 USE test;
 
@@ -13,7 +16,6 @@ CREATE TABLE prueba(
     id INT PRIMARY KEY,
     nombre VARCHAR (100)
 );
-
 ```
 Ahora una lista:
 1. numero 1
