@@ -37,7 +37,7 @@ La URL a otro markdown:
 
 La URL de imagen:
 
-![URL de imagen]()
+![URL de imagen](https://github.com/AlvaroSanJuan20/prueba2_Alvaro/blob/master/GitHubImages/Cisco-Packet-Tracer.png)
 
 La tabla:
 
